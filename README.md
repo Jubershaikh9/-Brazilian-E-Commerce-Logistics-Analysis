@@ -62,7 +62,7 @@ limit 5;
 ---
 
 ## 📂 Related Portfolios
-*   **Full Case Study (PDF):** [View the Comprehensive Report Here](./Target_Brazil_Report.pdf)
+*   **Full Case Study (PDF):** [View the Comprehensive Report Here](Target_case_study.pdf)
 *   **Retail Sales Dashboard (Tableau):** [Interactive Superstore Insights](https://public.tableau.com/views/SuperstoreInteractiveDashboard_17744371159950/SuperstoreInteractiveInsightsDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 *   **HR Strategic Dashboard (Tableau):** [Workforce Management View](https://public.tableau.com/views/Omega_HR_Dashboard_17732913735230/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
