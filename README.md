@@ -69,5 +69,5 @@ limit 5;
 ---
 
 ## 📫 Contact & Connections
-*   **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+*   **LinkedIn:** [://linkedin.com](linkedin.com/in/jubertshaikh99)
 *   **Current Focus:** Mastering Advanced Python & Machine Learning via Scaler.
